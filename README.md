@@ -1,14 +1,14 @@
 # Madhu-kumar
 # VSD-Tool-Installation.  
 ## **Comprehensive guidelines for installing all the necessary tools are provided here:**  
-## **Tool installation process:**  
-## **<u>System Requirements:</u>**   
-    -perating System: Ubuntu 20.04 LTS  
-    -RAM: Minimum 6 GB  
-    -Hard Disk Space: At least 50 GB free space  
-    -CPU: 4 vCPUs or equivalent  
-    -Dependencies: Basic development tools including python3 and other related libraries  
-    -Network: Active Internet connection for package downloads  
+### **Tool installation process:**  
+### **System Requirements:**   
+    1.perating System: Ubuntu 20.04 LTS  
+    2.RAM: Minimum 6 GB  
+    3.Hard Disk Space: At least 50 GB free space  
+    4.CPU: 4 vCPUs or equivalent  
+    5.Dependencies: Basic development tools including python3 and other related libraries  
+    6.Network: Active Internet connection for package downloads  
     
 **<u>Tool Check:.</u>**
 **1.<u>Yosys</u>**
@@ -27,5 +27,5 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-<img width="789" height="49" alt="Screenshot from 2025-09-20 19-42-54" src="https://github.com/user-attachments/assets/f2943c18-9718-4a3b-b980-02f281e5b6ff" />
+<img width="789" height="49" alt="Screenshot from 2025-09-20 19-42-54" src="https://github.com/user-attachments/assets/f2943c18-9718-4a3b-b980-02f281e5b6ff" />  
 **<2.u>Iverilog</u>**
