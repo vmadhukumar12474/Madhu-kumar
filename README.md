@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d80ffeb9-fa34-4683-be23-74541b82066f" /># Madhu-kumar
+# Madhu-kumar
 VSD-Tool-Installation.
 ****Comprehensive guidelines for installing all the necessary tools are provided here:
 Tool installation process:**
@@ -10,8 +10,9 @@ Tool installation process:**
     Dependencies: Basic development tools including python3 and other related libraries
     Network: Active Internet connection for package downloads
     
-**Tool Check:**
-'''$ sudo apt-get update
+Tool Check:
+```bash
+$ sudo apt-get update
 $ git clone https://github.com/YosysHQ/yosys.git
 $ cd yosys
 $ sudo apt install make               # If make is not installed
@@ -23,5 +24,6 @@ $ make config-gcc
 # Yosys build depends on a Git submodule called abc, which hasn't been initialized yet. You need to run the following command before running make
 $ git submodule update --init --recursive
 $ make 
-$ sudo make install
+$ sudo make install```
+
 
