@@ -1,8 +1,8 @@
 # Madhu-kumar
 # VSD-Tool-Installation.  
-**## Comprehensive guidelines for installing all the necessary tools are provided here:**  
-**##Tool installation process:**  
-**##<u>System Requirements:</u>**   
+## **Comprehensive guidelines for installing all the necessary tools are provided here:**  
+## **Tool installation process:**  
+## **<u>System Requirements:</u>**   
     -perating System: Ubuntu 20.04 LTS  
     -RAM: Minimum 6 GB  
     -Hard Disk Space: At least 50 GB free space  
@@ -25,7 +25,7 @@ $ make config-gcc
 # Yosys build depends on a Git submodule called abc, which hasn't been initialized yet. You need to run the following command before running make
 $ git submodule update --init --recursive
 $ make 
-$ sudo make install ```
-
+$ sudo make install
+```
 <img width="789" height="49" alt="Screenshot from 2025-09-20 19-42-54" src="https://github.com/user-attachments/assets/f2943c18-9718-4a3b-b980-02f281e5b6ff" />
 **<2.u>Iverilog</u>**
