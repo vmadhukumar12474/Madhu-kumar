@@ -27,21 +27,22 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```  
- <img width="789" height="49" alt="Screenshot from 2025-09-20 19-42-54" src="https://github.com/user-attachments/assets/bf38a8ab-4a98-4d2e-b08b-ba06bf2048e7" />
+ <img width="1200" height="49" alt="Screenshot from 2025-09-20 19-42-54" src="https://github.com/user-attachments/assets/bf38a8ab-4a98-4d2e-b08b-ba06bf2048e7" />
     
 
 <u>**2.Iverilog**</u>
+
 ```
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-<img width="739" height="994" alt="Screenshot from 2025-09-20 19-45-32" src="https://github.com/user-attachments/assets/bbc64fe4-7500-4cbb-9ee4-4e4f1133014f" />
-<img width="732" height="612" alt="Screenshot from 2025-09-20 19-45-50" src="https://github.com/user-attachments/assets/8fd84950-5cd4-4173-a368-5ead231e9109" />
+<img width="1200" height="994" alt="Screenshot from 2025-09-20 19-45-32" src="https://github.com/user-attachments/assets/bbc64fe4-7500-4cbb-9ee4-4e4f1133014f" />
+<img width="1200" height="612" alt="Screenshot from 2025-09-20 19-45-50" src="https://github.com/user-attachments/assets/8fd84950-5cd4-4173-a368-5ead231e9109" />
 
 <u>**3.gtkwave**</u>
 ```
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-<img width="807" height="122" alt="Screenshot from 2025-09-20 19-46-49" src="https://github.com/user-attachments/assets/1d9dec23-57c7-4485-9df3-8733c27a4ef9" />
+<img width="1200" height="122" alt="Screenshot from 2025-09-20 19-46-49" src="https://github.com/user-attachments/assets/1d9dec23-57c7-4485-9df3-8733c27a4ef9" />
 
