@@ -1,14 +1,14 @@
 # Madhu-kumar
-**#VSD-Tool-Installation.**
-**##Comprehensive guidelines for installing all the necessary tools are provided here:**
-**##Tool installation process:**
-**System Requirements:**
-    perating System: Ubuntu 20.04 LTS
-    RAM: Minimum 6 GB
-    Hard Disk Space: At least 50 GB free space
-    CPU: 4 vCPUs or equivalent
-    Dependencies: Basic development tools including python3 and other related libraries
-    Network: Active Internet connection for package downloads
+**#VSD-Tool-Installation.**  
+**##Comprehensive guidelines for installing all the necessary tools are provided here:**  
+**##Tool installation process:**  
+**System Requirements:**   
+    perating System: Ubuntu 20.04 LTS  
+    RAM: Minimum 6 GB  
+    Hard Disk Space: At least 50 GB free space  
+    CPU: 4 vCPUs or equivalent  
+    Dependencies: Basic development tools including python3 and other related libraries  
+    Network: Active Internet connection for package downloads  
     
 Tool Check:
 ```bash
