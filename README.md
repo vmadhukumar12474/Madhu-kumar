@@ -10,7 +10,7 @@
 - Dependencies: Basic development tools including python3 and other related libraries  
 - Network: Active Internet connection for package downloads  
     
-**<u>Tool Check:.</u>**  
+**<u>Tool Check:</u>**  
 **1.<u>Yosys</u>**  
 ```
 $ sudo apt-get update
@@ -27,6 +27,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```  
-<img width="789" height="49" alt="Screenshot from 2025-09-20 19-42-54" src="https://github.com/user-attachments/assets/f2943c18-9718-4a3b-b980-02f281e5b6ff" />     
+ <img width="789" height="49" alt="Screenshot from 2025-09-20 19-42-54" src="https://github.com/user-attachments/assets/bf38a8ab-4a98-4d2e-b08b-ba06bf2048e7" />
+    
 
-**<2.u>Iverilog</u>**
+**2.<u>Iverilog</u>**
